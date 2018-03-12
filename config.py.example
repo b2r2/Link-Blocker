@@ -1,0 +1,5 @@
+TOKEN = <String: Your Token bot>
+CHAT_ID = <Integer: Target chat_id>
+REGEXP = <Your regular expression>
+# Or you can use my pattern of a parser:
+# '(?:(?:https?|ftp):\/\/)?[\w/\-?=%.]+\.[\w/\-?=%.]+'
